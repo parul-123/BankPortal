@@ -1,0 +1,30 @@
+img{
+	border-bottom: thick solid #A52A2A;
+}
+.carousel-inner img {
+      -webkit-filter: grayscale(90%);
+      /*filter: grayscale(90%);  make all photos black and white */
+      width: 100%; /* Set width to 100% */
+      margin: auto;
+  }
+ .navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+    }
+ .navbar-default{
+ 	background-color : #A52A2A;
+ }
+ .bg-2{
+ 	background:color : grey;
+ 	color: #555555;
+  }
+  
+  .logo {
+    color : #A52A2A;
+    font-size: 200px;
+}
+ @media screen and (max-width: 768px) {
+    .col-sm-4 {
+        text-align: center;
+        margin: 25px 0;
+    }
