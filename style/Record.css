@@ -1,0 +1,25 @@
+body {
+	background-color: #D3D3D3;
+}
+
+h3 {
+		color: #A52A2A;
+		text-align: center;
+		font-style: italic;
+		font-size: 50px;
+		text-decoration: none;
+	}
+
+a {
+	color: #A52A2A;
+	text-decoration: none; 
+	font-size:40px;
+	position:absolute; 
+	bottom:0; 
+	left:0;
+}
+
+img {
+	display: block;
+	margin: 0 auto; 
+}

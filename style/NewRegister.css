@@ -1,0 +1,24 @@
+body {
+	background-color: #D3D3D3;
+}
+
+fieldset {
+	border: thick dotted #A52A2A;
+}
+
+legend{
+		color: #A52A2A;
+		text-align: center;
+		font-size: 30px;
+		text-decoration: none;
+	}
+	
+label{
+		color: #A52A2A;
+		text-align: center;
+		font-style: italic;
+		font-size: 20px;
+		text-decoration: none;
+	}
+
+	
